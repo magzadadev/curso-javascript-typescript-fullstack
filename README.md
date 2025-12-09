@@ -11,6 +11,7 @@ Exploração profunda da linguagem, estruturas de dados e algoritmos.
 - [x] Variáveis e Tipos
 - [x] Lógica de Programação
 - [x] Funções e Escopo (Ref: `01-fundamentos-js/funcoes`)
+- [x] JavaScript Assíncrono (Callbacks)
 - [ ] Manipulação de Arrays/Objetos
 
 ### Módulo 2: Back-end Engineering
