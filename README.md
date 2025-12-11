@@ -10,9 +10,11 @@ O objetivo é dominar a stack moderna (Node.js, React, SQL/NoSQL) aplicando conc
 Exploração profunda da linguagem, estruturas de dados e algoritmos.
 - [x] Variáveis e Tipos
 - [x] Lógica de Programação
-- [x] Funções e Escopo (Ref: `01-fundamentos-js/funcoes`)
+- [x] Funções e Escopo Avançado (Ref: `01-fundamentos-js/funcoes`)
+  - *Closures, IIFE, Callbacks & Higher Order Functions*
 - [x] JavaScript Assíncrono (Callbacks)
-- [ ] Manipulação de Arrays/Objetos
+- [x] Objetos & Design Patterns (Ref: `01-fundamentos-js/objetos`)
+  - *Factory Functions, Getters/Setters, 'this' & Encapsulamento*
 
 ### Módulo 2: Back-end Engineering
 Construção de APIs robustas e escaláveis.
